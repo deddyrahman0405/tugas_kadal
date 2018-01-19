@@ -15,4 +15,8 @@ int main(){
 	Biawak.warnaKulit = "HITAM KUNING ";
 	Komodo.warnaKulit  = "HITAM ";
 	Tokek.warnaKulit = "PUTIH BINTIK MERAH ";
+	
+	Biawak.jenisMakanan = "Ayam, Kelinci.";
+	Komodo.jenisMakanan = "Rusa, Babi, Kerbau.";
+	Tokek.jenisMakanan = "Nyamuk, Jangrik.";
 }
