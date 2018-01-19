@@ -8,3 +8,6 @@ class kadal{
 		string jenisMakanan;
 		string warnaKulit;
 };
+
+int main(){
+}
