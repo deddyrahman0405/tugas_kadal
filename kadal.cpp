@@ -24,4 +24,8 @@ int main(){
 	cout <<"makanannya " <<(Komodo.jenisMakanan);
 	Komodo.bersuara("sleip");
 	
+	cout <<"Tokek berwarna " <<(Tokek.warnaKulit);
+	cout <<"makanannya " <<(Tokek.jenisMakanan);
+	Tokek.bersuara("tretektektek tokke");
+	
 }
