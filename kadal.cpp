@@ -19,4 +19,9 @@ int main(){
 	Biawak.jenisMakanan = "Ayam, Kelinci.";
 	Komodo.jenisMakanan = "Rusa, Babi, Kerbau.";
 	Tokek.jenisMakanan = "Nyamuk, Jangrik.";
+	
+	cout <<"Komodo berwarna " <<(Komodo.warnaKulit);
+	cout <<"makanannya " <<(Komodo.jenisMakanan);
+	Komodo.bersuara("sleip");
+	
 }
