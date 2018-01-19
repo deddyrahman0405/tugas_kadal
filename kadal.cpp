@@ -10,4 +10,9 @@ class kadal{
 };
 
 int main(){
+	kadal Biawak,Komodo,Tokek;
+	
+	Biawak.warnaKulit = "HITAM KUNING ";
+	Komodo.warnaKulit  = "HITAM ";
+	Tokek.warnaKulit = "PUTIH BINTIK MERAH ";
 }
