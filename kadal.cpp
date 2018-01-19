@@ -27,5 +27,7 @@ int main(){
 	cout <<"Tokek berwarna " <<(Tokek.warnaKulit);
 	cout <<"makanannya " <<(Tokek.jenisMakanan);
 	Tokek.bersuara("tretektektek tokke");
-	
+}
+void kadal::bersuara(string bunyi){
+	cout << " Bunyinya "<<bunyi<< " !!"<<endl;
 }
